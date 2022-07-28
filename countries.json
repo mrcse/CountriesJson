@@ -1,7 +1,4 @@
-"data": {
-        "totalPage": 21,
-        "currentPage": 1,
-        "result": [
+[
             {
                 "id": "1",
                 "name": "Afghanistan",
@@ -75,4 +72,4 @@
                 "iso2": "AM"
             }
         ]
-    }
+    
