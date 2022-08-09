@@ -1,1 +1,153 @@
-
+[
+            {
+                "category_id": "1",
+                "category_title": "Islamic Studies",
+                "category_icon": "explore_islamic",
+                "category_slug": "islamic-studies",
+                "category_type": "Thrive",
+                "category_order": "0",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "2",
+                "category_title": "Development",
+                "category_icon": "explore_web",
+                "category_slug": "web-development",
+                "category_type": "Build",
+                "category_order": "1",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "3",
+                "category_title": "Information Technology",
+                "category_icon": "explore_it",
+                "category_slug": "it-and-software-development",
+                "category_type": "Build",
+                "category_order": "2",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "4",
+                "category_title": "Business",
+                "category_icon": "explore_business",
+                "category_slug": "business-and-management",
+                "category_type": "Thrive",
+                "category_order": "3",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "5",
+                "category_title": "Marketing",
+                "category_icon": "explore_marketing",
+                "category_slug": "marketing",
+                "category_type": "Thrive",
+                "category_order": "4",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "6",
+                "category_title": "Creative Design",
+                "category_icon": "explore_creative",
+                "category_slug": "creative-design",
+                "category_type": "Create",
+                "category_order": "6",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "7",
+                "category_title": "Photography & Video",
+                "category_icon": "explore_photography",
+                "category_slug": "photography-and-video",
+                "category_type": "Create",
+                "category_order": "7",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "8",
+                "category_title": "Personal Development",
+                "category_icon": "explore_personal",
+                "category_slug": "personal-development",
+                "category_type": "Build",
+                "category_order": "8",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "9",
+                "category_title": "Teaching & Academics",
+                "category_icon": "explore_teaching",
+                "category_slug": "teaching-and-academics",
+                "category_type": "Build",
+                "category_order": "9",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "10",
+                "category_title": "Politics & Society",
+                "category_icon": "explore_politics",
+                "category_slug": "politics-and-society",
+                "category_type": "Thrive",
+                "category_order": "10",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "11",
+                "category_title": "Science, Engineering & Maths",
+                "category_icon": "explore_science",
+                "category_slug": "science-engineering-maths",
+                "category_type": "Create",
+                "category_order": "11",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "12",
+                "category_title": "Language Learning",
+                "category_icon": "explore_language",
+                "category_slug": "language-learning",
+                "category_type": "Thrive",
+                "category_order": "13",
+                "category_active": "1",
+                "category_on_first": "no"
+            },
+  {
+                "category_id": "13",
+                "category_title": "Finance & Accounting",
+                "category_icon": "explore_accounting",
+                "category_slug": "finance-accounting",
+                "category_type": "Thrive",
+                "category_order": "12",
+                "category_active": "0",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "14",
+                "category_title": "IT & Computer Science",
+                "category_icon": "explore_computer_science",
+                "category_slug": "it-&-computer-science",
+                "category_type": "Create",
+                "category_order": "14",
+                "category_active": "0",
+                "category_on_first": "no"
+            },
+            {
+                "category_id": "15",
+                "category_title": "Health, Psychology & Fitness",
+                "category_icon": "explore_health_psychology_fitness",
+                "category_slug": "health-psychology-&-fitness",
+                "category_type": "Thrive",
+                "category_order": "15",
+                "category_active": "0",
+                "category_on_first": "no"
+            }
+  
+        ]
